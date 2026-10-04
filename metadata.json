@@ -1,0 +1,6 @@
+{
+  "name": "BusControl",
+  "description": "Sistema Integral de Gestión y Control de Autobuses con sincronización en tiempo real y base de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
